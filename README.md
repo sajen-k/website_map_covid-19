@@ -1,1 +1,1 @@
-# a website for showing route from A to B with COVID-19 in india
+# A website for showing route and COVID cases in india
